@@ -4,7 +4,8 @@ __Project Management Performance Analysis__
 
 ### Project Overview
 
-This project analyzes a dataset of 99 projects from 2021 to 2025 to evaluate performance in terms of costs, benefits, completion rates, and distributions by type, region, phase, and year. 
+This project delivers an interactive Power BI dashboard analyzing 99 projects (2021–2025) with a total investment of $411.5M and projected benefits of $874M (ROI: ~112%). The dashboard enables management to monitor KPIs, track project phases, identify cancellation risks, and optimize resource allocation across regions and project types.
+
 The goal is to provide insights for better resource allocation, risk management, and decision-making in project management. A Power BI dashboard was built to visualize KPIs, trends, and summaries, addressing key business questions derived from project management best practices (e.g., ROI, variance, efficiency).
 
 
