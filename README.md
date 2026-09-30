@@ -76,8 +76,7 @@ The goal is to provide insights for better resource allocation, risk management,
 - Interactive single-page dashboard with slicers (Project Name, Type, Region).
 - Visuals: KPI cards (by type), pie charts (benefit/cost by region), bar chart (completion % by phase), table (project summary), clustered bar (cost/benefit by year).
   
-![Full Power BI Dashboard View]( https://github.com/amer-deiri/Project-Management-Dashboard-Using-Power-BI/blob/main/Dashboard.png)
-
+![Full Power BI Dashboard View](dashboard/Dashboard.png)
 
 ### Data Analysis
 
